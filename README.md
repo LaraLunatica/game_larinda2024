@@ -15,8 +15,8 @@ O shrek será controlado com as setas do teclado e espaço para soltar o poder q
 ![Captura de tela 2024-04-14 215513](https://github.com/LaraLunatica/game_larinda2024/assets/164427047/e5d9edb8-2c80-4e98-a3d4-55e70755e01c)
 Se vc ganhar voce vai ver a classificação de tempo que vc conseguiu ficar no jogo e é so inserir seu nome para vc entra no ranking.
 ![Captura de tela 2024-04-14 223111](https://github.com/LaraLunatica/game_larinda2024/assets/164427047/9037aa93-2166-47f1-a235-8f464f43edb8) 
-Se vc perde não podera ver o ranking, como na imagem a cima.
+Se vc perde não poderá entrer no ranking, como na imagem a cima.
 Esse jogo foi criado para trabalho da faculdade Uni-FACEF.
-Por Lara Domingos, com ajuda do meu irmão, professor Marcio e minhas amigas.
+Por Lara Domingos.
 Obrigada!
 
